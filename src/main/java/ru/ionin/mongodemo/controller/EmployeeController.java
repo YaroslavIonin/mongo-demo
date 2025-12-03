@@ -1,6 +1,6 @@
 package ru.ionin.mongodemo.controller;
 
-import ru.ionin.mongodemo.model.Employee;
+import ru.ionin.mongodemo.entity.Employee;
 import ru.ionin.mongodemo.repository.EmployeeRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

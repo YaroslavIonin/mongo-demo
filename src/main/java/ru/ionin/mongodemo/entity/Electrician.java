@@ -1,4 +1,4 @@
-package ru.ionin.mongodemo.model;
+package ru.ionin.mongodemo.entity;
 
 import lombok.*;
 

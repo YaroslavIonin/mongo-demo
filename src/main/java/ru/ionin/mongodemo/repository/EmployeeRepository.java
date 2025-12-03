@@ -1,6 +1,6 @@
 package ru.ionin.mongodemo.repository;
 
-import ru.ionin.mongodemo.model.Employee;
+import ru.ionin.mongodemo.entity.Employee;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
